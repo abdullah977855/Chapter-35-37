@@ -9,4 +9,5 @@ function calculator(num1, num2, operator){
 }
 
 calculator(20, 6, "-");
+document.write("<br>");
 calculator(20, 6, "+");
